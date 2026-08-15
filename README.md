@@ -13,10 +13,10 @@ My zsh configuration, version-controlled with git.
 
 ```sh
 git clone <repo-url> ~/dotfiles
-ln -sf ~/dotfiles/zsh/zshrc ~/.zshrc
-ln -sf ~/dotfiles/zsh/zshenv ~/.zshenv
-ln -sf ~/dotfiles/zsh/dircolors ~/.dircolors
-ln -sf ~/dotfiles/zsh/oh-my-zsh-custom ~/.oh-my-zsh/custom
+ln -sf ~/my-zsh-config/zsh/zshrc ~/.zshrc
+ln -sf ~/my-zsh-config/zsh/zshenv ~/.zshenv
+ln -sf ~/my-zsh-config/zsh/dircolors ~/.dircolors
+ln -sf ~/my-zsh-config/zsh/oh-my-zsh-custom ~/.oh-my-zsh/custom
 ```
 
 (Oh My Zsh must be installed first: https://ohmyz.sh/)

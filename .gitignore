@@ -1,0 +1,6 @@
+# Fichiers de backup ponctuels, pas destinés à être versionnés
+backup-*/
+
+# Historique zsh — jamais versionné (données perso / potentiellement sensibles)
+.zsh_history
+*.zsh_history
